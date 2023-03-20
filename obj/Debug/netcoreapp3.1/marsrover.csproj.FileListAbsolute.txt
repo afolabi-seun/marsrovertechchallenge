@@ -1,0 +1,15 @@
+/Users/oluwaseunafolabi/Documents/Development/marsrovertechchallenge/bin/Debug/netcoreapp3.1/marsrover
+/Users/oluwaseunafolabi/Documents/Development/marsrovertechchallenge/bin/Debug/netcoreapp3.1/Resources/test.txt
+/Users/oluwaseunafolabi/Documents/Development/marsrovertechchallenge/bin/Debug/netcoreapp3.1/marsrover.deps.json
+/Users/oluwaseunafolabi/Documents/Development/marsrovertechchallenge/bin/Debug/netcoreapp3.1/marsrover.runtimeconfig.json
+/Users/oluwaseunafolabi/Documents/Development/marsrovertechchallenge/bin/Debug/netcoreapp3.1/marsrover.runtimeconfig.dev.json
+/Users/oluwaseunafolabi/Documents/Development/marsrovertechchallenge/bin/Debug/netcoreapp3.1/marsrover.dll
+/Users/oluwaseunafolabi/Documents/Development/marsrovertechchallenge/bin/Debug/netcoreapp3.1/marsrover.pdb
+/Users/oluwaseunafolabi/Documents/Development/marsrovertechchallenge/obj/Debug/netcoreapp3.1/marsrover.csproj.AssemblyReference.cache
+/Users/oluwaseunafolabi/Documents/Development/marsrovertechchallenge/obj/Debug/netcoreapp3.1/marsrover.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oluwaseunafolabi/Documents/Development/marsrovertechchallenge/obj/Debug/netcoreapp3.1/marsrover.AssemblyInfoInputs.cache
+/Users/oluwaseunafolabi/Documents/Development/marsrovertechchallenge/obj/Debug/netcoreapp3.1/marsrover.AssemblyInfo.cs
+/Users/oluwaseunafolabi/Documents/Development/marsrovertechchallenge/obj/Debug/netcoreapp3.1/marsrover.csproj.CoreCompileInputs.cache
+/Users/oluwaseunafolabi/Documents/Development/marsrovertechchallenge/obj/Debug/netcoreapp3.1/marsrover.dll
+/Users/oluwaseunafolabi/Documents/Development/marsrovertechchallenge/obj/Debug/netcoreapp3.1/marsrover.pdb
+/Users/oluwaseunafolabi/Documents/Development/marsrovertechchallenge/obj/Debug/netcoreapp3.1/marsrover.genruntimeconfig.cache
